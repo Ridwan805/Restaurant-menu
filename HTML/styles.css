@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(0, 0, 0);  
+
+}
+header{
+    background-color: rgb(0, 0, 0);
+    height: 310px;
+    width: 100%;
+    text-align: center;
+    
+                
+}
+
+#name
+{
+    font-family: "yellow ginger", serif;
+    font-size: 30px;
+    margin: 0%;
+    background-image: none;
+    color: rgb(200, 255, 0);
+}
+
+#ormen{
+    font-size: 30px;
+}
+
+.rows{
+    display: flex;
+}
+
+
+.card{
+    background-color: goldenrod;
+    height: 580px;
+    width: 30%;
+    margin-left:  35px;
+    margin-right: 20px;
+}
+
+
+
+.food{
+   font-family: 'Baguette', serif;
+   font-size: 40px;   
+}
+.foodcaption{
+    font-family: 'battlesbridge demo', serif;
+    font-size: 20px;
+}
+h2{
+    color: aliceblue;
+}
+
+.descr{
+    font-family: "yellow ginger", serif;
+    font-size: 12px ;
+    color: aliceblue;
+    
+}
+
+.mincard{
+    background-color: rgb(39, 13, 13);
+    height: 180px;
+    width: 95%;
+    margin-left:  15px;
+    margin-right: 30px;
+}
+#frorder{
+    background-color: chartreuse;
+    width: 85%;
+    height: 700px ;
+    margin-left: 8%;
+    margin-right: 10%;
+    
+}
+#forlabelling{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 60px;
+}
+.card2{
+    background-color: rgb(101, 202, 0);
+    height: 300px;
+    width: 20%;
+    margin-left:  140px ;
+    margin-right: 20px;
+    margin-top: 25px;
+}
+.left{
+    margin-left: 20px;
+}
